@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Card-Memory-Game-With-Breaking-Bad/static/css/main.15fda38f.chunk.css",
+    "main.js": "/Card-Memory-Game-With-Breaking-Bad/static/js/main.1c19cec9.chunk.js",
+    "main.js.map": "/Card-Memory-Game-With-Breaking-Bad/static/js/main.1c19cec9.chunk.js.map",
+    "runtime-main.js": "/Card-Memory-Game-With-Breaking-Bad/static/js/runtime-main.77ed64df.js",
+    "runtime-main.js.map": "/Card-Memory-Game-With-Breaking-Bad/static/js/runtime-main.77ed64df.js.map",
+    "static/js/2.7981cfd1.chunk.js": "/Card-Memory-Game-With-Breaking-Bad/static/js/2.7981cfd1.chunk.js",
+    "static/js/2.7981cfd1.chunk.js.map": "/Card-Memory-Game-With-Breaking-Bad/static/js/2.7981cfd1.chunk.js.map",
+    "index.html": "/Card-Memory-Game-With-Breaking-Bad/index.html",
+    "static/css/main.15fda38f.chunk.css.map": "/Card-Memory-Game-With-Breaking-Bad/static/css/main.15fda38f.chunk.css.map",
+    "static/js/2.7981cfd1.chunk.js.LICENSE.txt": "/Card-Memory-Game-With-Breaking-Bad/static/js/2.7981cfd1.chunk.js.LICENSE.txt",
+    "static/media/Jimmy.37506988.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/Jimmy.37506988.jpg",
+    "static/media/App.css": "/Card-Memory-Game-With-Breaking-Bad/static/media/breaking-bad.d9b3c969.jpg",
+    "static/media/fring.4efe5c24.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/fring.4efe5c24.jpg",
+    "static/media/guss.19f32fe5.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/guss.19f32fe5.jpg",
+    "static/media/hank.d8af0e9a.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/hank.d8af0e9a.jpg",
+    "static/media/hector.bbc9b94a.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/hector.bbc9b94a.jpg",
+    "static/media/lydia.72ca1d72.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/lydia.72ca1d72.jpg",
+    "static/media/mike.213a11d5.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/mike.213a11d5.jpg",
+    "static/media/pinkman.9afc529e.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/pinkman.9afc529e.jpg",
+    "static/media/skyler.ebf6ee0f.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/skyler.ebf6ee0f.jpg",
+    "static/media/todd.00fc88a2.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/todd.00fc88a2.jpg",
+    "static/media/walt.b73c211a.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/walt.b73c211a.jpg",
+    "static/media/walter.d9eb0ac8.jpg": "/Card-Memory-Game-With-Breaking-Bad/static/media/walter.d9eb0ac8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ed64df.js",
+    "static/js/2.7981cfd1.chunk.js",
+    "static/css/main.15fda38f.chunk.css",
+    "static/js/main.1c19cec9.chunk.js"
+  ]
+}
